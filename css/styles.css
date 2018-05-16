@@ -1,0 +1,25 @@
+body {background-color: white;
+	text-align: center; color:darkorange;
+    background-image: url(https://images.pexels.com/photos/370799/pexels-photo-370799.jpeg?auto=compress&cs=tinysrgb&h=350)
+    
+
+}
+
+img{
+	width:100%;
+	
+
+
+}
+.selector {
+  width: 1446px;
+  height: 297px;
+}
+
+p{background-color: #ffffff;
+	
+}
+h3 {
+    text-align: center;
+    background-color: mediumpurple;
+}
